@@ -83,13 +83,14 @@ h2 {
 
 .vp-content {
     max-width: 600px;
+    padding: 20px;
     padding-top: 150px;
     color: #525859;
     margin: auto;
 }
 
 .vp-content h1 {
-    font-size: 50px;
+    font-size: 3rem;
 }
 
 .vp-content p {
@@ -107,7 +108,7 @@ h2 {
 /* features */
 .features {
     overflow: auto;
-    padding: 100px 0px;
+    padding: 100px 20px;
     text-align: center;
 }
 
@@ -124,7 +125,7 @@ h2 {
 
 /* reservation */
 .reservation {
-    padding: 100px 0px;
+    padding: 100px 20px;
     text-align: center;
 }
 
