@@ -31,10 +31,15 @@ h2 {
 }
 
 .btn-dark {
-    background: #ffcccc;
+    background: #cfbaba;
     color: white;
     border: 1px solid #636e72;
 }
+
+.btn-dark:hover {
+    background: #ffcccc;
+}
+
 
 /* header */
 .header {
